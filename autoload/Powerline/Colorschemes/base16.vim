@@ -109,11 +109,11 @@ let g:Powerline#Colorschemes#base16#colorscheme = Pl#Colorscheme#Init([
     \ }),
   \
   \ Pl#Hi#Segments(['ctrlp:item'], {
-    \ 'n': ['base0e', 'base07', ['bold']],
+    \ 'n': ['base0e', 'base07'],
     \ }),
   \
   \ Pl#Hi#Segments(['ctrlp:marked'], {
-    \ 'n': ['base08', 'base0e', ['bold']],
+    \ 'n': ['base08', 'base0e'],
     \ }),
   \
   \ Pl#Hi#Segments(['ctrlp:count'], {
